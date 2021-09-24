@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hello, this is the first time using GitHub
+Hello, this is the first time using
